@@ -1,0 +1,46 @@
+﻿body {
+    font-size: 1em;
+    padding: 10px;
+}
+
+.form-control {
+    width: 80%;
+    padding: 25px 20px;
+    margin: 0px 10px;
+    display: inline-block;
+    border: 1px solid #808080;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.activitylineformi {
+    margin: 0px 10px;
+    display: inline-block;
+    border: 1px solid #808080;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 1.5em;
+    height: 70px;
+    width: 200px;
+    padding: 10px, 0px;
+}
+#fak {
+    margin: 0px 10px;
+    display: inline-block;
+    border: 1px solid #808080;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 1.5em;
+    text-align: center;
+    float: none;
+    height: 30px;
+    width: 100%;
+    padding: 10px, 5px;
+}
+#faknap {
+    font-size: 1em;
+    height: 40px;
+    width: 50px;
+    text-align: justify;
+    color: #0ca5b3;
+    float: left;
+}

@@ -1,0 +1,27 @@
+﻿/*.btn-margin {
+    margin: 7px 3px;   
+}*/
+
+/*.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}*/
+
+/* Navbar links on mouse-over */
+.navbar a:hover {
+    background-color: #FD6E1F;
+}
+
+
+/* Current/active navbar link */
+/*.active {
+    background-color: #4CAF50;
+}*/
+.navbar {
+   display: flex;
+    margin-right: 0 auto; 
+    margin-top: 1em;
+    max-width: 50em;
+  
+}
